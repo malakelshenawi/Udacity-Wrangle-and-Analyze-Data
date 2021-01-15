@@ -12,8 +12,8 @@ Gather data from a variety of sources and in a variety of formats, assess its qu
   # Project Details : 
   
   ## Data wrangling
-      ## Gathering data
-      ## Assessing data
-      ## Cleaning data
-      ## Storing, analyzing, and visualizing your wrangled data
-      ## Reports on data wrangling efforts and data analyses and visualizations
+    ## Gathering data
+    ## Assessing data
+    ## Cleaning data
+    ## Storing, analyzing, and visualizing your wrangled data
+    ## Reports on data wrangling efforts and data analyses and visualizations
